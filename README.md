@@ -51,14 +51,22 @@ Program ini terdiri dari tiga class utama:
 📖 Contoh Output
 
 ```bash
-Nama Mahasiswa   : Ibnu Hilmi
-NIM              : 12345678
-Prodi            : Teknik Informatika
+
+--- Mahasiswa ---
+Nama             : Ibnu Hilmi
+NIM              : 241511079
+Prodi            : D3 Teknik Informatika
+
+--- Peminjaman ---
+Nama Mahasiswa   : Ibnu Hilmi (241511079)
+Prodi            : D3 Teknik Informatika
 Barang Pinjam    : Laptop
 Tanggal Pinjam   : 29-08-2025
 Jam Pengambilan  : 10:00
 Jam Pengembalian : 12:00
+
 ```
+
 📌 Lesson Learned
 
 Dari pembuatan proyek ini, beberapa hal yang dipelajari:
